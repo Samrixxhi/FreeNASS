@@ -1,0 +1,28 @@
+Time consuming Introduction: FreeNAS is an open source software operating system that allows the sharing of storage over a network.
+It was created in 2005. We can download the software at no cost from freenas.org and runs on x84-64 commodity hardware.  
+
+Project Summary:
+
+OrganizationixsystemsLicenseBSD LicenseOpen/RepositoryRepositoryWebsite/https://www.freenas.com
+Key Features:
+
+? FreeNAS features 256-bit encryption. 
+? Snapshots and replication: Snapshots of the entire file system can be scheduled.
+? It runs on x84-64 commodity hardware. 
+We can download the software at no cost from freenas.org
+
+Additional features: FreeNAS and TrueNAS alongside has been maintained under the same organization- ixsystems. FreeNAS is a community-supported edition and TrueNAS is an enterprise edition.
+
+Technical support: 64-bit software, 64 gb RAM, 256 GB  internal storage. 
+
+Advantages:
+? Data Backup
+? Security
+
+Disadvantages:
+? .
+
+
+
+
+
